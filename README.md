@@ -4,11 +4,7 @@
 This project analyzes a simulated SaaS platform dataset to evaluate user behavior across the acquisition and revenue funnel.
 
 The goal was to:
-Identify drop-off points in the user journey
-Measure conversion performance by acquisition channel
-Evaluate A/B experiment impact
-Analyze revenue and ARPU trends
-Perform cohort retention analysis
+Identify drop-off points in the user journey, Measure conversion performance by acquisition channel, Evaluate A/B experiment impact, Analyze revenue and ARPU trends, Perform cohort retention analysis.
 
 The project simulates real-world product analytics work performed by a Product or Growth Data Analyst.
 
@@ -73,7 +69,6 @@ Funnel visualization
 Channel-level conversion comparison
 A/B experiment results
 Revenue & ARPU breakdown
-Cohort retention matrix
 
 🔗 [https://public.tableau.com/views/Funnelanalysis_17725723788010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
