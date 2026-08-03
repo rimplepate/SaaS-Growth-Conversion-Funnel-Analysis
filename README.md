@@ -102,4 +102,3 @@ Business Insight Communication
 Rimple Patel
 Aspiring Data Analyst | SQL | Tableau | Python
 
-LinkedIn: [www.linkedin.com/in/rimple-patel-b9b572209]
